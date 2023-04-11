@@ -17,4 +17,4 @@ Utilizamos codigo Html y Css, manteniendo siempre una estructura para los nombre
 
 ## Enlace al proyecto publicado**
 
-(https://DaniloJacome.github.io/web_project_3_esp/)  
+(https://danilojacome.github.io/web_project_3_esp/)  
