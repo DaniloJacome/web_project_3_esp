@@ -17,8 +17,13 @@
       grid-gap: 20px;
     }
   }
-  
-  @media screen and (min-width: 320px) and (max-width: 767px) {
+
+  @media screen and (max-width: 320px) {
+    .places {
+        max-width: 320px;
+    }
+}
+  @media screen and (min-width: 321px) and (max-width: 768px) {
     .place {
       grid-template-areas:
         "title"
