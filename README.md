@@ -14,6 +14,6 @@ El presento proyecto nos muestra que es una página web en el cual consiste en l
 
 Utilizamos código Html y Css, manteniendo siempre una estructura para los nombres de los bloques, elementos, modificadores utilizando la metodolgías BEM
 
-## Enlace al proyecto publicado**
+## Enlace del proyecto publicado**
 
-(https://danilojacome.github.io/web_project_3_esp/)  
+https://danilojacome.github.io/web_project_3_esp/
