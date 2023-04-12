@@ -5,6 +5,10 @@
   margin: auto;
   text-rendering: optimizeLegibility;
   background-color: #2A2C2F;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility; 
 }
 
 @font-face {
@@ -32,6 +36,7 @@
 
 @media screen and (min-width: 321px) and (max-width: 768px) {
     .page {
-        max-width: 768px;
+        width: 100%;
+        display:flex;
     }
 }
