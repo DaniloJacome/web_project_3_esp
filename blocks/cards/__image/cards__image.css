@@ -1,8 +1,18 @@
-.cards__image {
-  width: 160px;
-  height: 160px;
-  border-radius: 75%;
-  margin-left: 40px;
-  margin-right: 40px;
-  margin-bottom: 43px;
+.cards__image{
+    max-width:17.75rem;
+    min-height:13.3125rem;   
+}
+
+@media screen and (min-width:768px)and (max-width:1279px) {
+    .cards__image{
+        max-width: 22rem;
+        min-height: 16.5rem;
+    }
+}
+
+@media screen and (min-width:320px)and (max-width:767px) {
+    .cards__image{
+        max-width: 18rem;
+        min-height: 13.5rem;
+    }
 }
