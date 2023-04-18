@@ -1,6 +1,8 @@
 .button__paragraph{
     max-width: 12.375rem;
     min-height: 3rem;
+    text-align: center;
+    margin: 0 auto;
     background: #0278FE;
     border-radius: .25rem;
     z-index: 2;
