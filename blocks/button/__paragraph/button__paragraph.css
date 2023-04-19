@@ -16,7 +16,7 @@
     text-decoration: none;
 }
 
-.button__paragraph:hover {
+.button:hover {
     background-color:#0063D2;
     cursor: pointer;
 }
